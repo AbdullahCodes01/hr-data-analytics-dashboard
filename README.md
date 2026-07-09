@@ -12,6 +12,13 @@ The dashboard enables HR managers to monitor employee demographics, workforce di
 
 ---
 
+
+## 📷 Dashboard Preview
+
+![HR Data Analytics Dashboard](Images/dashboard-preview.png)
+
+---
+
 # 🎯 Business Problem
 
 Employee attrition is one of the biggest challenges faced by organizations.
@@ -127,12 +134,6 @@ HR Data Analytics Dashboard
 │
 └── README.md
 ```
-
----
-
-## 📷 Dashboard Preview
-
-![HR Data Analytics Dashboard](Images/dashboard-preview.png)
 
 ---
 
