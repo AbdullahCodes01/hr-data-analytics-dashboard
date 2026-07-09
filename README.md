@@ -134,7 +134,7 @@ HR Data Analytics Dashboard
 
 > Replace the image below with your dashboard screenshot.
 
-![HR Dashboard](Images/Dashboard%20Preview.png)
+![HR Dashboard](Images/Dashboard Preview.png)
 
 ---
 
