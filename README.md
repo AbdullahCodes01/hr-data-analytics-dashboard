@@ -106,6 +106,30 @@ This dashboard answers important HR business questions such as:
 
 ---
 
+# 📂 Project Structure
+
+```
+HR Data Analytics Dashboard
+│
+├── Dashboard
+│     HR Data Analytics Dashboard.xlsx
+│
+├── Data
+│     HR Dataset.xlsx
+│
+├── Documentation
+│     Business Questions.pdf
+│     Key Insights.pdf
+│     Recommendations.pdf
+│
+├── Images
+│     Dashboard Preview.png
+│
+└── README.md
+```
+
+---
+
 # 📷 Dashboard Preview
 
 > Replace the image below with your dashboard screenshot.
@@ -138,6 +162,16 @@ The dashboard supports dynamic filtering using slicers:
 - Microsoft Excel
 - Power Query
 - Pivot Tables
+
+---
+
+# 📄 Documentation
+
+Detailed project documentation is available inside the **Documentation** folder.
+
+- Business Questions
+- Key Insights
+- Business Recommendations
 
 ---
 
