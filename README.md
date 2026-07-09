@@ -130,11 +130,9 @@ HR Data Analytics Dashboard
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot.
-
-![HR Dashboard](Images/Dashboard Preview.png)
+![HR Data Analytics Dashboard](Images/dashboard-preview.png)
 
 ---
 
